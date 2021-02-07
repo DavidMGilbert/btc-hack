@@ -61,10 +61,11 @@ Every time this program checks the balance of a generated address, it will print
 
 However, if a wallet with a balance is found, then all necessary information about the wallet will be saved to the text file `found.txt`. An example is:
 
->hex private key: 5A4F3F1CAB44848B2C2C515AE74E9CC487A9982C9DD695810230EA48B1DCEADD<br/>
+>address: 1Kz2CTvjzkZ3p2BQb5x5DX6GEoHX2jFS45<br/>
+>private key: 5A4F3F1CAB44848B2C2C515AE74E9CC487A9982C9DD695810230EA48B1DCEADD<br/>
 >WIF private key: 5JW4RCAXDbocFLK9bxqw5cbQwuSn86fpbmz2HhT9nvKMTh68hjm<br/>
 >public key: 04393B30BC950F358326062FF28D194A5B28751C1FF2562C02CA4DFB2A864DE63280CC140D0D540EA1A5711D1E519C842684F42445C41CB501B7EA00361699C320<br/>
->address: 1Kz2CTvjzkZ3p2BQb5x5DX6GEoHX2jFS45<br/>
+>balance: 0.0001456<br/>
 
 # Memory Consumption
 
