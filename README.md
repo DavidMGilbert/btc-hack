@@ -51,7 +51,7 @@ However, through `multiprocessing.Process()` a concurrent process is created for
 
 # API FAQ
 
-Currently, the program runs and queries the sochain.com api. As this api allows for upto 300 queries per minute for free, it seemed like a really good hoice allowing you to test approximately 18,000 wallets per hour.
+Currently, the program runs and queries the sochain.com api. As this api allows for upto 300 queries per minute for free, it seemed like a really good choice allowing you to test approximately 18,000 adresses per hour, 432,000 addresses per 24 hours or 3,000,000 addresses per week!
 
 # Expected Output
 
@@ -78,4 +78,4 @@ The memory consumption stack trace was made by using <a href="https://pypi.org/p
 - [X] Find a faster FREE API with greater allowances. 
 
 
-<a href="https://github.com/purpyl-media/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/purpyl-media/btc-hack/issues">Create an issue</a> so I can add more stuff to improve
