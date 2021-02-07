@@ -10,7 +10,7 @@ An automated bitcoin wallet collider that brute forces random wallet addresses b
 
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
 
-Python modules listed in the <a href="/requirements.txt">requirements.txt<a/>
+btc-hack.py will try to automatically install the required modules if they are not present. Should that fail, you can find the required modules listed in the <a href="/requirements.txt">requirements.txt<a/>
   
 Minimum <a href="#memory-consumption">RAM requirements</a>
 
@@ -18,7 +18,6 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 
 ```
 $ git clone https://github.com/purpyl-media/btc-hack.git btc-hack
-
 ```
 
 # Quick Start
