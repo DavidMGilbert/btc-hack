@@ -39,7 +39,7 @@ Private keys are generated randomly to create a 32 byte hexidecimal string using
 
 The private keys are converted into their respective public keys using the `starkbank-ecdsa` Python module. Then the public keys are converted into their Bitcoin wallet addresses using the `binascii` and `hashlib` standard libraries.
 
-The generated address is searched using an online api, and if it is found that the address has a balance, then the private key, public key and wallet address are saved to the text file `plutus.txt` on the user's hard drive.
+The generated address is searched using an online api, and if it is found that the address has a balance, then the private key, public key and wallet address are saved to the text file `found.txt` on the user's hard drive.
 
 This program also utilizes multiprocessing through the `multiprocessing.Process()` function in order to make concurrent calculations. Sadly this is limited at present due to api restrictions of 300 queries per minute.
 
