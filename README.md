@@ -1,4 +1,4 @@
-# Purpyl Bitcoin Brute Forcer
+Bitcoin Brute Forcer
 
 An automated bitcoin wallet collider that brute forces random wallet addresses by checking their balance in real-time.
 
