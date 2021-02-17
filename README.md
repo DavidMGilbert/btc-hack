@@ -17,7 +17,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/purpyl-media/btc-hack.git btc-hack
+$ git clone https://github.com/DavidMGilbert/btc-hack.git btc-hack
 ```
 
 # Quick Start
