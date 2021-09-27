@@ -2,6 +2,13 @@
 
 An automated bitcoin wallet collider that brute forces random wallet addresses by checking their balance in real-time.
 
+# UPDATE!!! BTC-Hack-v2
+
+I have created a v2 of this litle script that now includes a GUI and tries/wins counter for easier execution and use.
+
+A pre-compiled windows executable is available for download in the releases section.
+
+
 # Like This Project? Give It A Star or please consider donating!
 
 [![](https://img.shields.io/github/stars/davidmgilbert/btc-hack.svg)](https://github.com/davdmgilbert/btc-hack)
