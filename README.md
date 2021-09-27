@@ -1,8 +1,10 @@
 # Bitcoin Brute Forcer
 
-An automated bitcoin wallet collider that brute forces random wallet addresses by checking their balance in real-time.
+An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API.
 
 # UPDATE!!! BTC-Hack-v2
+
+[![](https://raw.githubusercontent.com/DavidMGilbert/btc-hack/main/screenshot.PNG)]
 
 I have created a v2 of this little script that now includes a GUI and tries/wins counter for easier execution and use.
 
