@@ -2,9 +2,11 @@
 
 An automated bitcoin wallet collider that brute forces random wallet addresses by checking their balance in real-time.
 
-# Like This Project? Give It A Star
+# Like This Project? Give It A Star or please consider donating!
 
-[![](https://img.shields.io/github/stars/purpyl-media/btc-hack.svg)](https://github.com/purpyl-media/btc-hack)
+[![](https://img.shields.io/github/stars/davidmgilbert/btc-hack.svg)](https://github.com/davdmgilbert/btc-hack)
+
+Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD
 
 # Dependencies
 
