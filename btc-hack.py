@@ -1,7 +1,7 @@
-# Purpyl Media Bitcoin Brute Forcer
+# BTC-Hack
 # Made by David Gilbert
-# https://github.com/purpyl-media/btc-hack
-# https://www.purpyl.media
+# https://github.com/DavidMGilbert/btc-hack
+# https://www.davidmgilbert.com
 
 try:
     import sys
