@@ -25,7 +25,7 @@ The original script as well as the new one are available in this repository.
 
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
 
-btc-hack.py will try to automatically install the required modules if they are not present. Should that fail, you can find the required modules listed in the <a href="/requirements.txt">requirements.txt<a/>
+btc-hack-2.py requires the  modules listed in the <a href="/requirements.txt">requirements.txt<a/>
 
 # Windows Executable
 A Compiled windows executable is available from the releases page that can be run natively without the need to install python or any dependencies.
