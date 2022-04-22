@@ -5,7 +5,7 @@ An automated bitcoin wallet generator that brute forces random wallet addresses 
 
 # Like This Project? Give It A Star or please consider donating!
 
-[![](https://img.shields.io/github/stars/davidmgilbert/btc-hack.svg)](https://github.com/davdmgilbert/btc-hack)
+[![](https://img.shields.io/github/stars/davidmgilbert/btc-hack.svg)](https://github.com/donovanj44/better-version)
 
 My Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD
 
@@ -26,20 +26,18 @@ The original script as well as the new one are available in this repository.
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
 
 btc-hack-2.py requires the  modules listed in the <a href="/requirements.txt">requirements.txt<a/>
-
-# Windows Executable
-A Compiled windows executable is available from the releases page that can be run natively without the need to install python or any dependencies.
-
-
-<a href="https://github.com/DavidMGilbert/btc-hack/releases/tag/btc-hack-v2">-> DOWNLOAD <-<a/>
   
 # Installation
 
 ```
-$ git clone https://github.com/DavidMGilbert/btc-hack.git btc-hack
+$ git clone https://github.com/donovanj44/better-version.git
+$ cd better-version && pip3 install -r requirements.txt
 ```
 
 # Quick Start
+
+YOU MUST MANUALLY SET THE WEBHOOK URL BY EDITING btc-hack-v2.py
+THERE IS NO GUI OPTION FOR IT
 
 ```
 $ python3 btc-hack-v2.py
@@ -85,4 +83,4 @@ However, if a wallet with a balance is found, then all necessary information abo
 - [X] Find a faster FREE API with greater allowances. 
 
 
-<a href="https://github.com/davidmgilbert/btc-hack/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/donovanj44/better-version/issues">Create an issue</a> so I can add more stuff to improve
