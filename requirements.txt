@@ -3,3 +3,4 @@ ecdsa
 requests
 multiprocessing
 PySimpleGUI
+discord-webhook

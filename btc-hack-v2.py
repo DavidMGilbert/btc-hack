@@ -16,6 +16,9 @@ import webbrowser
 import PySimpleGUI as sg
 from json import (load as jsonload, dump as jsondump)
 from os import path
+from discord_webhook import DiscordWebhook, DiscordEmbed
+webhook = "Insert URL Here"
+
 import json
 
 def generate_private_key():
@@ -173,6 +176,16 @@ def main():
                    "WIF private key: " + str(private_key_to_WIF(private_key)) + "\n" +
                    "Public key: " + str(private_key_to_public_key(private_key)).upper() + "\n" +
                    "Balance: " + str(balance) + "\n\n")
+                webhook = DiscordWebhook(url=webhook)
+                embed = DiscordEmbed(title='Found!', description="Private key: " + str(private_key) + "\n" +
+                   "WIF private key: " + str(private_key_to_WIF(private_key)) + "\n" +
+                   "Public key: " + str(private_key_to_public_key(private_key)).upper() + "\n" +
+                   "Balance: " + str(balance) + "\n\n",color='03b2f8')
+                embed.setFooter(text='Webhook functionality added by freek#4620')
+                webhook.add_embed(embed)
+                response = webhook.execute
+
+
             
         elif event == 'Settings':
             event, values = create_settings_window(settings).read(close=True)
