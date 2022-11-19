@@ -9,13 +9,13 @@ An automated bitcoin wallet generator that brute forces random wallet addresses 
 
 My Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD
 
-# UPDATE!!! BTC-Hack-v2
+# UPDATE!!! BTC-Hack-v2.1 - mnemonic
 
 >TESTED WITH A KNOWN BTC WALLET ADDRESS AND THE TXT FILE OUTPUT AND WIN COUNTER WORK!
 
 [![](https://raw.githubusercontent.com/DavidMGilbert/btc-hack/main/screenshot.PNG)]
 
-I have created a v2 of this little script that now includes a GUI and tries/wins counter for easier execution and use.
+I have created a v2.1 of this little script that now includes the ability to search by mnemonic phrase in the GUI.
 
 A pre-compiled windows executable is available for download in the releases section.
 
