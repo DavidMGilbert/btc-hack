@@ -1,4 +1,8 @@
 
+# !!! NEW !!! BTC-Hack-OFFLINE !!!
+Search faster using multi-thrteaded support and an offline database with over 43 Million addresses Updated to 11/13/2022!<br/>
+<a href="https://github.com/DavidMGilbert/btc-hack-offline"><<< GET IT HERE >>></a>
+
 # BTC-Hack-v2 - Bitcoin Wallet Hack
 
 An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API.
