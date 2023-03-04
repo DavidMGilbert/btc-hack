@@ -3,7 +3,7 @@ BTC-Hack
 #ttps://github.com/DavidMGilbert/btc-hack
 # https://www.davidmgilbert.com
 
-try:
+#!/usr/bin/python3
     import sys
     import os
     import time
