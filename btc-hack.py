@@ -1,6 +1,6 @@
-# BTC-Hack
+BTC-Hack
 # Made by David Gilbert
-# https://github.com/DavidMGilbert/btc-hack
+#ttps://github.com/DavidMGilbert/btc-hack
 # https://www.davidmgilbert.com
 
 try:
