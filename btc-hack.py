@@ -65,7 +65,7 @@ def public_key_to_address(public_key):
 def get_balance(address):
     time.sleep(0.2) #This is to avoid over-using the API and keep the program running indefinately.
     try:
-        response = requests.get("https://api.blockcypher.com/v1/btc/main/addrs/" + str(address) "/balance")
+        response = requests.get("https://api.blockcypher.com/v1/btc/main/addrs/" + str(address) + "/balance")
         return float(response.json()['balance']) 
     except:
         return -1
