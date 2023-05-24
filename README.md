@@ -1,4 +1,8 @@
 
+# !!! SoChain no longer Free !!!
+
+SoChains API is no longer free, I have updated the API call to BlockCyper which is free at present and working.
+
 # !!! NEW !!! BTC-Hack-OFFLINE !!!
 Search faster using multi-thrteaded support and an offline database with over 43 Million addresses Updated to 11/13/2022!<br/>
 <a href="https://github.com/DavidMGilbert/btc-hack-offline"><<< GET IT HERE >>></a>
