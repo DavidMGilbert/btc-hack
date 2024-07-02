@@ -3,7 +3,7 @@
 
 <h2 align=center>
   <a href="#">
-    <img src="https://forthebadge.com/images/badges/workson-my-machine.svg">
+    <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
   </a>
   <a href="#">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
