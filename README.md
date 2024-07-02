@@ -3,7 +3,7 @@
 
 <h2 align=center>
   <a href="#">
-    <img src="https://forthebadge.com/images/badges/built-by-codebabes.svg">
+    <img src="https://forthebadge.com/images/badges/workson-my-machine.svg">
   </a>
   <a href="#">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
@@ -18,6 +18,10 @@
 
 <h2 align=center> ⚠ PLEASE NOTE: This code is only for educational purposes. ⚠ </h2>
 <h2 align=center> ⚠ If you do something illegal expect to be held responsible for your own actions. ⚠ </h2>
+
+<h2 align=center> Like This Project? Give It A Star or please consider donating!</h2>
+
+<h2 align=center> My Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD </h2>
 
 <h2 align=center> 📑 Introduction </h2>
 
